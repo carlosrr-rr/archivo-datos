@@ -1,0 +1,12 @@
+api
+b8607dfd14d71b303efd065347664726
+secreta
+d65fcbcdab85cfdedc2742b9c6eb5d36
+
+API_KEY = 'b8607dfd14d71b303efd065347664726'
+API_SECRET = 'd65fcbcdab85cfdedc2742b9c6eb5d36'
+EMAIL_REMITENTE = 'carlosrocabert@gmail.com'
+EMAIL_DESTINATARIO = 'carlosrocabert@gmail.com'
+
+tmtu ymbw meph nsew
+pythonmacd
