@@ -1,1 +1,1 @@
-BONK,Solana,tendencia alcista,2.18900000e-05,6.90662222e-07
+BONK,Solana,tendencia alcista,2.18000000e-05,6.05311111e-07
