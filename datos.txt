@@ -1,1 +1,1 @@
-SOL,Solana,tendencia alcista,1.82460000e+02,8.21039000e+00
+SOL,Solana,tendencia alcista,1.80860000e+02,8.20560000e+00
