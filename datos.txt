@@ -1,1 +1,1 @@
-BONK,Solana,tendencia neutra,3.59300000e-05,-8.30954286e-07
+BONK,Solana,tendencia neutra,3.67500000e-05,-8.73297143e-07
