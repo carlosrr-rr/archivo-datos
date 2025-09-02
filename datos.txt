@@ -1,1 +1,1 @@
-SOL,Solana,Tendencia neutra,207.07,6.67
+SOL,Solana,tasa 0.80 % dia,207.67,6.95
