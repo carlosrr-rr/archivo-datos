@@ -1,1 +1,1 @@
-SOL,Solana,tasa 0.80 % dia,224.54,9.92
+SOL,Solana,tasa 0.80 % dia,224.77,10.01
