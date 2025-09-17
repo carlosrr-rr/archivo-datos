@@ -1,1 +1,1 @@
-SOL,Solana,tendencia neutra,2.36640000e+02,3.01743000e+00
+PUMP,Solana,tendencia neutra,8.11200000e-03,4.01334667e-04
