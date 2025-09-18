@@ -1,1 +1,1 @@
-PUMP,Solana,tendencia neutra,7.92400000e-03,-4.14605306e-05
+PUMP,Solana,tendencia neutra,7.93600000e-03,-6.15578566e-05
