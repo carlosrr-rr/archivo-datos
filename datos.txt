@@ -1,1 +1,1 @@
-SOL,Solana,Tendencia neutra,201.46,4.07
+SOL,Solana,Tendencia neutra,201.52,4.1
