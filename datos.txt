@@ -1,1 +1,1 @@
-BORG,Solana,Tendencia neutra,0.59,7.24
+BORG,Solana,Tendencia neutra,0.58,5.69
