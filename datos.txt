@@ -1,1 +1,1 @@
-ETH,Ether,Tendencia neutra,2961.20,7
+ETH,Ether,Tendencia neutra,2964.65,7.11
