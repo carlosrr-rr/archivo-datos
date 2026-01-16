@@ -1,1 +1,1 @@
-ETH,Ether,Tendencia neutra,3219.96,14.22
+SOL,Solana,tendencia neutra,1.43230000e+02,-4.07693333e+00
