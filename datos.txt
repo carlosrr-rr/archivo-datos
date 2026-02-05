@@ -1,1 +1,1 @@
-SOL,Solana,tendencia neutra,1.02120000e+02,-2.09710505e+00
+ETH,Solana,tendencia neutra,1.88356000e+03,-2.62132234e+01
