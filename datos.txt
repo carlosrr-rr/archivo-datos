@@ -1,1 +1,1 @@
-ETH,Solana,tendencia neutra,2.09793000e+03,3.80448292e+01
+ETH,SOL,dentro del rango,2.36600000e+01,1
