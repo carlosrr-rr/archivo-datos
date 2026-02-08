@@ -1,1 +1,1 @@
-ETH,SOL,fuera de rango,2.41400000e+01,-1
+ETH,SOL,fuera de rango,2.42400000e+01,-1
