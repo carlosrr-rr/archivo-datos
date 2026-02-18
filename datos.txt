@@ -1,1 +1,1 @@
-ORCA,SOL,dentro del rango,1.54600000e-02,1
+ORCA,SOL,dentro del rango,1.57400000e-02,1
