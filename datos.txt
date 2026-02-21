@@ -1,1 +1,1 @@
-SOL,Solana,tendencia neutra,8.63700000e+01,6.22462472e-01
+SOL,Solana,tendencia neutra,8.62400000e+01,6.44692006e-01
