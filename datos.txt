@@ -1,1 +1,1 @@
-SOL,Solana,tendencia neutra,8.69700000e+01,4.50727240e-01
+SOL,80.5,Suelo 75.3 +5.3%,Techo 82.2 -2.4%,MANTENER,2
