@@ -1,1 +1,1 @@
-SOL,84.81,Suelo 78.3 +8.4%,Techo 87.7 -3.3%,VENTA,3
+SOL,84.41,Suelo 78.2 +7.9%,Techo 87.7 -3.7%,VENTA,3
