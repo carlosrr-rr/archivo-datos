@@ -1,1 +1,1 @@
-SOL,90.45,Suelo 81.3 (+11.2%),Techo 89.0 (+1.6%),VENTA Y SHORT,4
+SOL,89.77,Suelo 81.4 (+10.3%),Techo 89.0 (+0.9%),VENTA Y SHORT,4
