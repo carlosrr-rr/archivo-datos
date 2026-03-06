@@ -1,1 +1,1 @@
-SOL,84.15,Suelo 82.3 (+2.3%),Techo 91.9 (-8.4%),MANTENER,2
+SOL,84.82,Techo 91.9 (-7.7%),Suelo 82.3 (+3.0%),MANTENER,2
