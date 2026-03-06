@@ -1,2 +1,2 @@
-SOL,87.89,Suelo 82.4 (+6.7%),Techo 91.9 (-4.4%),MANTENER,2
-Actualizado: 2026-03-06 07:31:50
+SOL,87.62,Suelo 82.3 (+6.4%),Techo 91.9 (-4.7%),MANTENER,2
+Actualizado: 2026-03-06 07:36:54
