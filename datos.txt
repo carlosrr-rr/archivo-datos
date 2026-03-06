@@ -1,1 +1,1 @@
-SOL,85.13,Techo 91.9 (-7.4%),Suelo 82.3 (+3.4%),Stop Loss 79.5(+7.8%),MANTENER,2
+SOL,85.46,Techo 91.9 (-7.1%),Suelo 82.4 (+3.7%),Stop Loss 00.0 (+0.0%),MANTENER,2
