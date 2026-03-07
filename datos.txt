@@ -1,1 +1,1 @@
-SOL,84.96,Techo 92.0 (-7.6%),Suelo 82.6 (+2.8%),Stop Loss 00.0 (+0.0%),BUSCANDO,2
+SOL,84.88,Techo 92.0 (-7.7%),Suelo 82.6 (+2.8%),Stop Loss 00.0 (+0.0%),BUSCANDO,2
