@@ -1,1 +1,1 @@
-SOL,85.71,Techo 87.7 (-2.2%),Suelo 80.0 (+7.2%),Stop Loss 00.0 (+0.0%),SHORT,5
+SOL,85.77,Techo 87.7 (-2.2%),Suelo 80.0 (+7.3%),Stop Loss 00.0 (+0.0%),SHORT,5
