@@ -1,1 +1,1 @@
-SOL,89.98,Techo 89.8 (+0.2%),Suelo 84.2 (+6.9%),Stop Loss 00.0 (+0.0%),VENTA / SHORT,4
+SOL,89.87,Techo 89.8 (+0.1%),Suelo 84.1 (+6.9%),Stop Loss 00.0 (+0.0%),VENTA / SHORT,4
