@@ -1,1 +1,1 @@
-SOL,90.68,Techo 97.6 (-7.1%),Suelo 88.8 (+2.1%),Buscando,BUSCANDO,2
+SOL,89.96,Techo 97.6 (-7.8%),Suelo 88.7 (+1.4%),Buscando,BUSCANDO,2
