@@ -1,1 +1,1 @@
-SOL,92.75,Techo 92.9 (-0.2%),Suelo 85.4 (+8.6%),Buscando,BUSCANDO,2
+HYPE,41.52,Techo 40.5 (+2.4%),Suelo 36.5 (+13.7%),Buscando,ZONA TECHO,4
