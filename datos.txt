@@ -1,1 +1,1 @@
-SOL,88.03,Techo 94.1 (-6.5%),Suelo 86.5 (+1.8%),Buscando,ZONA NEUTRAL,5
+SOL,87.72,Techo 94.1 (-6.8%),Suelo 86.5 (+1.4%),Buscando,ZONA NEUTRAL,5
