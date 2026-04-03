@@ -1,1 +1,1 @@
-HYPE,35.44,Techo 37.0 (-4.2%),Suelo 35.0 (+1.1%),SL 33.7,MANTENER POS.,1
+HYPE,35.56,Techo 37.0 (-3.9%),Suelo 35.0 (+1.5%),SL 33.7,MANTENER POS.,1
