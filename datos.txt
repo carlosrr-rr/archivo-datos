@@ -1,1 +1,1 @@
-VINE,0.02,Techo 0.0 (+0.5%),Suelo 0.0 (+9.1%),Buscando,ZONA TECHO,4
+VINE,0.01838,Techo 0.018279772 (+0.5%),Suelo 0.016846663 (+9.1%),Buscando,ZONA TECHO,4
