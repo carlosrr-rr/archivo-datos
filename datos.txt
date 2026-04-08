@@ -1,1 +1,1 @@
-HYPE,38.17,Techo 38.36238 (-0.5%),Suelo 36.35028 (+5.0%),Buscando,BUSCANDO,2
+HYPE,37.95,Techo 38.355598 (-1.1%),Suelo 36.345025 (+4.4%),Buscando,BUSCANDO,2
