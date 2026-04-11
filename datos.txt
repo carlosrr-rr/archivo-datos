@@ -1,1 +1,1 @@
-HYPE,42.96,Techo 41.917875 (+2.5%),Suelo 39.177843 (+9.7%),Buscando,ZONA TECHO,4
+HYPE,42.85,Techo 41.978285 (+2.1%),Suelo 39.225387 (+9.2%),Buscando,ZONA TECHO,4
