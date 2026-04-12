@@ -1,1 +1,1 @@
-HYPE,40.51,Techo 42.155255 (-3.9%),Suelo 39.565315 (+2.4%),Buscando,ZONA NEUTRAL,5
+HYPE,40.44,Techo 42.145028 (-4.0%),Suelo 39.579184 (+2.2%),Buscando,ZONA NEUTRAL,5
