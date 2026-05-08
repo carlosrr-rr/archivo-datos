@@ -1,1 +1,1 @@
-HYPE,41.23,Techo 42.175963 (-2.2%),Suelo 39.766099 (+3.7%),Buscando,ZONA NEUTRAL,5
+TSLA,428.35,Objetivo: 383.69,Distancia: +11.64%,P1:348.0 P2:372.0,BUSCANDO,2
