@@ -1,1 +1,1 @@
-TSLA,428.35,Objetivo: 383.74,Distancia: +11.63%,P1-P2 Ref.,SEGURO,1
+COHR,335.26,Objetivo: 325.00,Distancia: +3.16%,P1-P2 Ref.,VIGILANDO,2
