@@ -1,1 +1,1 @@
-TSLA,428.35,Objetivo: 383.70,Distancia: +11.64%,P1:348.0 P2:372.0,BUSCANDO,2
+TSLA,428.35,Objetivo: 383.71,Distancia: +11.64%,P1:348.0 P2:372.0,BUSCANDO,2
