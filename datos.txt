@@ -1,1 +1,1 @@
-TSLA,428.35,Objetivo: 383.71,Distancia: +11.63%,P1-P2 Ref.,SEGURO,1
+TSLA,428.35,Objetivo: 383.72,Distancia: +11.63%,P1-P2 Ref.,SEGURO,1
