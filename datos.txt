@@ -1,1 +1,1 @@
-AMPX,21.74,Objetivo: 16.20,Distancia: +34.22%,P1-P2 Ref.,SEGURO,1
+COHR,406.50,Objetivo: 369.82,Distancia: +9.92%,P1-P2 Ref.,SEGURO,1
