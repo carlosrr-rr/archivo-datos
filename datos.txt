@@ -1,1 +1,1 @@
-COHR,406.50,Objetivo: 370.11,Distancia: +9.83%,P1-P2 Ref.,SEGURO,1
+COHR,376.41,Objetivo: 370.11,Distancia: +1.70%,P1-P2 Ref.,ZONA CRITICA (2%),5
