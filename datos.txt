@@ -1,1 +1,1 @@
-COHR,402.00,Objetivo: 374.86,Distancia: +7.24%,P1-P2 Ref.,SEGURO,1
+COHR,401.93,Objetivo: 374.89,Distancia: +7.21%,P1-P2 Ref.,SEGURO,1
