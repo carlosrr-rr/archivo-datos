@@ -1,1 +1,1 @@
-COHR,379.15,Objetivo: 376.02,Distancia: +0.83%,P1-P2 Ref.,ZONA CRITICA (2%),5
+COHR,369.89,Objetivo: 376.06,Distancia: -1.64%,P1-P2 Ref.,¡CRUCE DETECTADO!,4
