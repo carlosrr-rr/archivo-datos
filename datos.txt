@@ -1,1 +1,1 @@
-COHR,394.18,Objetivo: 375.99,Distancia: +4.84%,P1-P2 Ref.,VIGILANDO,2
+COHR,379.15,Objetivo: 376.02,Distancia: +0.83%,P1-P2 Ref.,ZONA CRITICA (2%),5
