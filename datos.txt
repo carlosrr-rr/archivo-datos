@@ -1,1 +1,1 @@
-COHR,355.10,Objetivo: 377.91,Distancia: -6.04%,P1-P2 Ref.,¡CRUCE DETECTADO!,4
+SNDK,1655.65,Objetivo: 1618.53,Distancia: +2.29%,P1-P2 Ref.,VIGILANDO,2
