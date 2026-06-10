@@ -1,1 +1,1 @@
-COHR,355.94,Objetivo: 376.93,Distancia: -5.57%,P1-P2 Ref.,¡CRUCE DETECTADO!,4
+COHR,355.94,Objetivo: 376.97,Distancia: -5.58%,P1-P2 Ref.,¡CRUCE DETECTADO!,4
