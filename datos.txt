@@ -1,1 +1,1 @@
-SNDK,1643.23,Objetivo: 1619.62,Distancia: +1.46%,P1-P2 Ref.,ZONA CRITICA (2%),5
+SNDK,1643.23,Objetivo: 1619.89,Distancia: +1.44%,P1-P2 Ref.,ZONA CRITICA (2%),5
