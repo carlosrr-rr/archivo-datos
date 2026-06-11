@@ -1,1 +1,1 @@
-SNDK,1766.44,Objetivo: 1630.22,Distancia: +8.36%,P1-P2 Ref.,SEGURO,1
+SNDK,1825.48,Objetivo: 1630.49,Distancia: +11.96%,P1-P2 Ref.,SEGURO,1
