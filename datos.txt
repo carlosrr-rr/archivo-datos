@@ -1,1 +1,1 @@
-SNDK,1980.10,Objetivo: 1645.98,Distancia: +20.30%,P1-P2 Ref.,SEGURO,1
+SNDK,1980.10,Objetivo: 1646.25,Distancia: +20.28%,P1-P2 Ref.,SEGURO,1
